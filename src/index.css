@@ -9,3 +9,21 @@ body {
   padding: 10px;
   background: lightblue;
 }
+
+.button-position {
+  right: 0;
+}
+
+.button-bar {
+  padding: 10px;
+  position: fixed;
+  top: 0;
+  width: 100%;
+  overflow: hidden;
+  background: #222222;
+  z-index: 1001;
+}
+
+.comment-app{
+  margin-top: 60px;
+}
